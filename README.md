@@ -1,2 +1,3 @@
-# exsvelte
-Google Sheets clone made with Svelte
+# Exsvelte
+
+Clone of Google Sheets built with Svelte
